@@ -1,0 +1,4 @@
+matplotlib==3.8.3
+networkx==3.1
+selenium==4.18.1
+undetected_chromedriver==3.5.5
