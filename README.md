@@ -10,5 +10,8 @@ pip install -r requirements.txt
 ```
     
 ## Graphs
-Insert gif or link to demo
+![demo1](https://github.com/Leomnz/AutoInfiniteCraft/blob/d9a712c4087837d0d5bd62182ae8eafcf5aedd2e/images/image1.png)
+
+![demo2](https://github.com/Leomnz/AutoInfiniteCraft/blob/d9a712c4087837d0d5bd62182ae8eafcf5aedd2e/images/image2.png)
+
 
