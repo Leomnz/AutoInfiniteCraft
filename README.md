@@ -15,3 +15,5 @@ pip install -r requirements.txt
 ![demo2](https://github.com/Leomnz/AutoInfiniteCraft/blob/d9a712c4087837d0d5bd62182ae8eafcf5aedd2e/images/image2.png)
 
 
+## Known issues
+does not detect 403 response from the server after getting blocked.
