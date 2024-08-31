@@ -1,5 +1,5 @@
 # Auto Infinite Craft
-A tool to do automatic combinations in Infinte Craft and save the results as a directed graph.
+An automated selenium web tool to do programmatic combinations in Infinte Craft and save the results as a directed graph.
 
 
 ## Installation
